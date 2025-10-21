@@ -5,7 +5,7 @@ ListOfTask app will help you organize the clutter in your life.
 
 ## Margarita Maletskaia [@4kul4](https://www.github.com/4kul4)
 
-I have a bachelor's and master's degree from the Institute of Information Technology of the Russian Technical University MIREA in software engineering.
+Hi! I have a bachelor's and master's degree from the Institute of Information Technology of the Russian Technical University MIREA in software engineering.
 
 The main technology stacks are Python + FastApi and now also Dart + Flutter.
 
