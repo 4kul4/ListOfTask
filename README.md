@@ -1,15 +1,27 @@
-# tasklist
+# List of task
 
-pet project for tasklist.
+ListOfTask app will help you organize the clutter in your life.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Margarita Maletskaia [@4kul4](https://www.github.com/4kul4)
 
-A few resources to get you started if this is your first Flutter project:
+I have a bachelor's and master's degree from the Institute of Information Technology of the Russian Technical University MIREA in software engineering.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The main technology stacks are Python + FastApi and Dart + Flutter.
+
+
+
+## FAQ
+
+#### Why does the app look simple enough?
+
+This app was my first time implementing it in a programming language I wasn't accustomed to. I found Dart and Flutter quite appealing and user-friendly.
+
+#### QWill the app be released on the phone?
+
+I'm hoping to finish the desktop version of the app and start implementing it on the android. I have another project in the works that I'd like to implement, so this is a pet project.
+[README (1).md](https://github.com/user-attachments/files/23027162/README.1.md)
+ter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
