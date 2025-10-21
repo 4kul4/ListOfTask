@@ -20,9 +20,3 @@ This app was my first time implementing it in a programming language I wasn't ac
 #### QWill the app be released on the phone?
 
 I'm hoping to finish the desktop version of the app and start implementing it on the android. I have another project in the works that I'd like to implement, so this is a pet project.
-[README (1).md](https://github.com/user-attachments/files/23027162/README.1.md)
-ter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
