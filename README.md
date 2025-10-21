@@ -7,7 +7,7 @@ ListOfTask app will help you organize the clutter in your life.
 
 I have a bachelor's and master's degree from the Institute of Information Technology of the Russian Technical University MIREA in software engineering.
 
-The main technology stacks are Python + FastApi and Dart + Flutter.
+The main technology stacks are Python + FastApi and now also Dart + Flutter.
 
 
 
